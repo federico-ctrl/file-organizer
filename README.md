@@ -7,7 +7,7 @@ Un semplice script Python per organizzare i file in una cartella, spostandoli in
 1. Clona questo repository:
    
    ```bash
-   git clone https://github.com/TuoUsername/file-organizer.git
+   git clone https://github.com/federico-ctrl/file-organizer.git
 
 2. Assicurati di avere Python installato sul tuo computer.
 
